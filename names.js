@@ -5,4 +5,4 @@ function names(firstName, lastName) {
   console.log(firstName, lastName);
 }
 
-names(firstName, lastName);
+module.exports = names;
