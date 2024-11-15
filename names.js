@@ -6,6 +6,4 @@ function names(firstName, lastName) {
   return fullName;
 }
 
-names();
-
 module.exports = names;
