@@ -11,4 +11,6 @@ function hobbiesList(hobbyOne, hobbyTwo, hobbyThree) {
   return listOfHobbies;
 }
 
-console.log(hobbiesList());
+// console.log(hobbiesList());
+
+module.exports = hobbiesList;
